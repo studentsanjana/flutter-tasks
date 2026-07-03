@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Add a student to the list.
 void main()
 {
   List<String> names = ['Kashish', 'Sanjana', 'Yash', 'Riddhi', 'Narmada',  'Raghav', 'Kirti', 'Bhumi', 'Mayur', 'Nayan'];

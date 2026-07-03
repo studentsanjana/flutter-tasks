@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Create a function to calculate percentage.
 double percentage(List marks)
 {
     double sum = 0;

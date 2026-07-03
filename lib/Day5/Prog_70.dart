@@ -1,3 +1,4 @@
+// Calculate the average of list values.
 void main()
 {
     List<int> numbers = [50, 26, 36, 59, 68, 29];

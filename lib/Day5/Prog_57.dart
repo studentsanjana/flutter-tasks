@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Create a function to calculate factorial.
 int factorial(int num)
 {
     int fact = 1;

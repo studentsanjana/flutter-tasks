@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Create a function to add two numbers.
 int add(int num1, int num2)
 {
     return num1 + num2;

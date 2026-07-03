@@ -1,4 +1,5 @@
- void main()
+// Remove duplicate values using a Set.
+void main()
  {
    List<int> numbers = [10, 20, 30, 40, 50, 60, 50, 40, 70];
    print("List = $numbers");

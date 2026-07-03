@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Store employee details using a Map.
 void main() {
   Map<String, dynamic> employee = {};
 

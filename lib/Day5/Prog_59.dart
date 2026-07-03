@@ -1,5 +1,6 @@
 import 'dart:io';
 
+// Create a function to reverse a string.
 String reverse(String str)
 {
     return str.split('').reversed.join();

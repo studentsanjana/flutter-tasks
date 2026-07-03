@@ -16,6 +16,8 @@ bool isPrime(int num)
 }
 
 void main()
+// Create a function to check prime numbers.
+
 {
   stdout.write("Enter a number :");
   int num = int.parse(stdin.readLineSync()!);
